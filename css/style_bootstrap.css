@@ -1,0 +1,44 @@
+body{
+    margin: 1em;
+}
+.alin-derecha{
+   float:right;
+}
+
+img{
+    width: 300px;
+}
+
+div.insignias{
+    float: left;
+    width: 25%;
+    clear: right;
+    padding: 2em;
+}
+
+p{
+    clear: both;
+    margin-top: 2em;
+    padding: 2em;
+    
+}
+.espaciado{
+    margin-bottom: 1em;
+}
+.alin-derecha{
+    float: right;
+}
+
+table{
+    width: 100%;
+}
+td{
+    margin: 20px;
+    padding: 20px;
+}
+.orienta-boton{
+    float: right;
+}
+a.title{
+    font-size: 1.5em;
+}

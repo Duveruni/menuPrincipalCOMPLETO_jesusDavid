@@ -1,0 +1,54 @@
+
+h1, h2{
+    text-align: center;
+}
+.cont_padre{
+    margin: 0 auto 0 auto;
+    width: 500px;
+    height: 500px;
+    outline: 1px solid black;
+    position: relative;
+}
+
+
+
+.contenedor1{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    float: right;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.contenedor2{
+    background-color: burlywood;
+    width: 150px;
+    height: 150px;
+    float: left;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+.contenedor3{
+    background-color: rgb(20, 190, 233);
+    width: 150px;
+    height: 150px;
+    float: right;
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+
+}
+
+.contenedor4{
+    background-color: rgb(17, 202, 48);
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    float: left;
+    bottom: 100px;
+    right: 100px;
+}
